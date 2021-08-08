@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # finish the function
+    def find_the_parent(child):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9324#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 07 Aug 2021 08:43:20 UTC
+record: -1
